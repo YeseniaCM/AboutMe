@@ -1,10 +1,10 @@
 # Hola – I'm Yesenia! 👋
 
 - ✨ I’m currently studying Front-End Development and work 40% as a digital communicator
-- 🌱 I’m learning semantic HTML, CSS/SASS, Java/Type-script, API-development, agile working methods and Git/hub (amongst other things)
+- 🌱 I’m learning semantic HTML, CSS/SASS, Java/Type-script, API-development, agile working methods and Github (amongst other things)
 - 👯 I’m open for collaborations on anything that is educational
 - 💻 I also have knowledge in some CMS-systems. I work a lot in Prismic and know a little WordPress and Magento!
-- 📫 You can reach me at: Yesenia.martinez@medieinstitutet.se 
+- 📫 You can reach me at Yesenia.martinez@medieinstitutet.se or connect with me on LinkedIn
   
 [![image link](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesenia-martinez-8b39a8102/)
 ## My Tech Stack
